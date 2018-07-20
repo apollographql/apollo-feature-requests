@@ -1,3 +1,4 @@
+<!--
 ### Before opening a new feature request, please note:
 
 - Issues in this repository are reserved for feature requests only. Bugs should be reported in the main [Apollo Client repo issue tracker](https://github.com/apollographql/apollo-client/issues).
@@ -10,3 +11,4 @@
 - [ ] If the feature changes current behavior, reasons why your solution is better
 
 See [here](https://github.com/apollographql/apollo-feature-requests#suggesting-features) for more detail on what is expected of a feature request.
+-->
