@@ -1,6 +1,6 @@
 # Apollo Client Feature Requests
 
-This repository is used to track [Apollo Client](https://github.com/apollographql/apollo-client) feature requests and discussions. Click [here](https://github.com/apollo/apollo-feature-requests/issues/new) to open a new feature request.
+This repository is used to track [Apollo Client](https://github.com/apollographql/apollo-client) feature requests and discussions. Click [here](https://github.com/apollographql/apollo-feature-requests/issues/new) to open a new feature request.
 
 **Note:** Apollo Client bugs are tracked in the [Apollo Client repo issue tracker](https://github.com/apollographql/apollo-client/issues).
 
@@ -16,7 +16,7 @@ Most of the features in Apollo came from suggestions by you, the community! We w
 
 Please keep in mind that feature requests should be well specified and unambiguous, to have the greatest chance of being worked on by a contributor.
 
-The [issues](https://github.com/apollo/apollo-feature-requests/issues/) area of this repo should be used to discuss new features and possible implementation designs. You can show your support for (or against!) features by using GitHub reactions, or by adding meaningful details which help the feature definition become more clear. Please do not comment with "+1" as it creates a lot of noise (e-mails, notifications, etc.).
+The [issues](https://github.com/apollographql/apollo-feature-requests/issues/) area of this repo should be used to discuss new features and possible implementation designs. You can show your support for (or against!) features by using GitHub reactions, or by adding meaningful details which help the feature definition become more clear. Please do not comment with "+1" as it creates a lot of noise (e-mails, notifications, etc.).
 
 Please refrain from submitting a pull request in the main [Apollo Client repo](https://github.com/apollographql/apollo-client), to implement a proposed feature, until there is consensus that it should be included. This way, you can avoid putting in work that can’t be merged in. Once there is a consensus on the need for a new feature, proceed as listed in the [Apollo Client CONTRIBUTING doc](https://github.com/apollographql/apollo-client/blob/master/CONTRIBUTING.md#big-prs).
 
