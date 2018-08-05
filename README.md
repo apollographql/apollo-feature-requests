@@ -27,7 +27,7 @@ Please refrain from submitting a pull request in the main [Apollo Client repo](h
 >- If the underlying issue could be better solved by existing technology, encourage them to seek help in the [Slack channel](https://www.apollographql.com/slack) or on [Stack Overflow](http://stackoverflow.com/questions/tagged/apollo).
 2. If it's not possible to build the feature as a package (as you identified in step 1), explore whether creating hooks in core would make it possible to do so. If it would, redefine the issue as a request to create those hooks.
 3. Work with the requester and others in the community to build a clear specification for the feature and update the issue description accordingly.
-5. Finally, add the `confirmed` label and [classify](https://github.com/apollographql/apollo-client/CONTRIBUTING.md#classification) the issue.
+4. Finally, add the `confirmed` label.
 
 Core contributors may add the `help-wanted` label to feature requests. This indicates the feature is aligned with the project roadmap and a high-quality pull request will almost certainly be merged.
 
