@@ -2,11 +2,11 @@
 
 # 👋 Welcome
 
-Many of the features in the Apollo Platform came from suggestions by you, the community! We welcome any ideas about how to make the Apollo Platform better for your use cases. Unless there is overwhelming demand for a feature, it might not get implemented immediately, but please include as much information as possible that will help people have a discussion about your proposal.
+Many of the features in the Apollo Platform came from suggestions by you, the community! We welcome any ideas about how to make the Apollo Core Platform better for your use cases. Unless there is overwhelming demand for a feature, it might not get implemented immediately, but please include as much information as possible that will help people have a discussion about your proposal.
 
 ## 🧑‍🚀 Apollo feature request process
 
-This repository is used to track end to end feature requests across the entire Apollo Platform. It includes `e2e` features for:
+This repository is used to track end to end feature requests across the entire Apollo Core Platform. It includes `e2e` features for:
 
 - [Apollo Clients:iOS](https://github.com/apollographql/apollo-ios)
 - [Apollo Client: Kotlin](https://github.com/apollographql/apollo-kotlin)
@@ -17,7 +17,7 @@ This repository is used to track end to end feature requests across the entire A
 - [Apollo Rover CLI](https://github.com/apollographql/rover)
 - [Apollo Studio](https://github.com/apollographql/apollo-studio-community)
 
-With the intention of focusing this repository on the entire platform of Apollo, not the individual projects themselves.
+With the intention of focusing this repository on the entire core platform of Apollo, not the individual projects themselves.
 
 Just Click 👉 [here](https://github.com/apollographql/apollo-feature-requests/issues/new) to open a new feature request!
 
@@ -29,7 +29,7 @@ Before making a feature request here please consider the following:
 
   > Please check the other open source projects before creating a new feature request. Try to link any related issues or PRS in other repositories to the new feature request.
 
-2. Is this feature and end to end platform feature, or individual project level feature?
+2. Is this feature and end to end core platform feature, or individual project level feature?
 
   > If it's specific to a individual project, it's better to report the issue in that specific project, only. See links to repositories above.
 
