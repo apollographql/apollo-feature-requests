@@ -2,7 +2,7 @@
 
 # 👋 Welcome
 
-Many of the features in the Apollo Platform came from suggestions by you, the community! We welcome any ideas about how to make the Apollo Core Platform better for your use cases. Unless there is overwhelming demand for a feature, it might not get implemented immediately, but please include as much information as possible that will help people have a discussion about your proposal.
+Many of the features in the core Apollo projects came from suggestions by you, the community! While each project has it's own repo for tracking issues, we welcome any ideas about how to make the end-to-end supergraph experience across the core projects work better for your use cases. Unless there is overwhelming demand for a feature, it might not get implemented immediately, but please include as much information as possible that will help people have a discussion about your proposal.
 
 ## 🧑‍🚀 Apollo feature request process
 
