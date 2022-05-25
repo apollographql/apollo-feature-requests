@@ -8,7 +8,7 @@ Many of the features in the core Apollo projects came from suggestions by you, t
 
 This repository is used to track end-to-end supergraph feature requests across the entire core platform. This includes our subgraph compatibility project that ensures your subgraph library or hosted GraphQL API works seamlessly as part of your supergraph, powered by these core projects:
 
-- [Apollo Clients:iOS](https://github.com/apollographql/apollo-ios)
+- [Apollo Client: iOS](https://github.com/apollographql/apollo-ios)
 - [Apollo Client: Kotlin](https://github.com/apollographql/apollo-kotlin)
 - [Apollo Client: Web](https://github.com/apollographql/apollo-client)
 - [Apollo Server](https://github.com/apollographql/apollo-server)
