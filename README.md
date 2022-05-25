@@ -6,7 +6,7 @@ Many of the features in the core Apollo projects came from suggestions by you, t
 
 ## 🧑‍🚀 Apollo feature request process
 
-This repository is used to track end to end feature requests across the entire Apollo Core Platform. It includes `e2e` features for:
+This repository is used to track end-to-end supergraph feature requests across the entire core platform. This includes our subgraph compatibility project that ensures your subgraph library or hosted GraphQL API works seamlessly as part of your supergraph, powered by these core projects:
 
 - [Apollo Clients:iOS](https://github.com/apollographql/apollo-ios)
 - [Apollo Client: Kotlin](https://github.com/apollographql/apollo-kotlin)
