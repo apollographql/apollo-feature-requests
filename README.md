@@ -20,10 +20,6 @@ This repository is used to track end-to-end supergraph feature requests across t
 - [Apollo Federation](https://github.com/apollographql/federation)
 - [Apollo Federation Subgraph Compatibility](https://github.com/apollographql/apollo-federation-subgraph-compatibility)
 
-### Subgraph / Server
-
-- [Apollo Server](https://github.com/apollographql/apollo-server)
-
 ### Compose / Publish
 
 - [Apollo Rover CLI](https://github.com/apollographql/rover)
