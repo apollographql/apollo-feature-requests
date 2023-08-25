@@ -2,7 +2,7 @@
 
 # 👋 Welcome
 
-Many of the features in the Apollo Client library came from suggestions by you, the community! While the project has it's own repo for tracking issues, we welcome any ideas about how to make the experience for the client better for your use cases. Unless there is overwhelming demand for a feature, it might not get implemented immediately, but please include as much information as possible that will help people have a discussion about your proposal.
+Many of the features in Apollo Client came from suggestions by you, the community! While the project has its own repo for tracking issues, we welcome ideas about how to make the client better for your use cases. Unless there is overwhelming demand for a feature, it might not get implemented immediately, but please include as much information as possible that will help people have a discussion about your proposal.
 
 ## 🧑‍🚀 Apollo feature request process
 
