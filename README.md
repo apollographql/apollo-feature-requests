@@ -29,3 +29,22 @@ Before making a feature request here please consider the following:
 ## 🌎 Community involvement
 
 The [issues](https://github.com/apollographql/apollo-feature-requests/issues/) area of this repository should be used to discuss new features and possible implementation designs. You can show your support for (or against!) features by using GitHub reactions, or by adding meaningful details which help the feature definition become more clear. Please do not comment with "+1" as it creates a lot of noise (e-mails, notifications, etc.).
+
+## Core platform feature requests
+
+This repository used to track feature requests across the entire supergraph core platform. If you're coming here to request a feature outside of Apollo Client, please open an issue in the respective repository instead.
+
+### Clients
+
+- [Apollo Client: iOS](https://github.com/apollographql/apollo-ios)
+- [Apollo Client: Kotlin](https://github.com/apollographql/apollo-kotlin)
+
+### Router / Federation
+
+- [Apollo Router](https://github.com/apollographql/router)
+- [Apollo Federation](https://github.com/apollographql/federation)
+- [Apollo Federation Subgraph Compatibility](https://github.com/apollographql/apollo-federation-subgraph-compatibility)
+
+### Compose / Publish
+
+- [Apollo Rover CLI](https://github.com/apollographql/rover)
