@@ -2,3 +2,4 @@
 # Please customize this file as needed prior to merging.
 
 * @apollographql/prometheus
+* @apollographql/clients
