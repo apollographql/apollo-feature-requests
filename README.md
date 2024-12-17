@@ -20,11 +20,11 @@ Before making a feature request here please consider the following:
 
 1. Does this feature request support a wide range of use cases or is it uniquely specific to your individual use case?
 
-> If it's unique to you, this may not be an ideal feature for the entire client. Feel free to ask for help or advice in our [Discord server](https://discord.gg/graphos).
+> If it's unique to you, this may not be an ideal feature for the entire client. Feel free to ask for help or advice in our [community forum](https://community.apollographql.com/).
 
 2. Is this just a question or discussion on how to do something in the Apollo Platform?
 
-> If so, this might make a better post in our [Community Forum](https://community.apollographql.com/) or [Discord server](https://discord.gg/graphos)
+> If so, this might make a better post in our [community forum](https://community.apollographql.com/).
 
 3. Is there a work around available to you?
 
